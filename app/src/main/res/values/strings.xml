@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Habit tracker</string>
+
+    <string name="add_button">Submit</string>
+    <string name="back">back</string>
+    <string name="send">send</string>
+    <string name="colorPicker">Pick card color</string>
+
+    <string name="edit_title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="text_priority">Priority</string>
+    <string name="text_type">Type</string>
+    <string name="text_in">times a </string>
+    <string name="text_main_title">Habits</string>
+    <string name="edit_number">Number</string>
+    <string name="edit_period">Day/Week/Month</string>
+
+    <string name="radio_health">health</string>
+    <string name="radio_knowledge">knowledge</string>
+    <string name="radio_hobby">hobby</string>
+
+    <string name="key">key</string>
+
+    <string name="color_white">#FFFFFF</string>
+    <string name="color_warm_pink">#FFDAD4</string>
+    <string name="color_sunny">#FFDDAB</string>
+    <string name="color_light_cappuccino">#A08C8C</string>
+    <string name="color_light_green">#CFDFA4</string>
+    <string name="color_light_blue">#A4DFD7</string>
+    <string name="color_blue">#A4B6DF</string>
+
+    <string-array name="Priority">
+        <item>important</item>
+        <item>would be nice</item>
+        <item>if nothing else to do</item>
+        <item>negative</item>
+    </string-array>
+
+    <array name="Colors">
+    <item>@color/white</item>
+    <item>@color/warm_pink</item>
+    <item>@color/sunny</item>
+    <item>@color/light_cappuccino</item>
+    <item>@color/light_green</item>
+    <item>@color/light_blue</item>
+    <item>@color/blue</item>
+    </array>
+
+</resources>

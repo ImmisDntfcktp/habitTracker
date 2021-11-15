@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="burgundy">#9C4147</color>
+    <color name="cappuccino">#765656</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cold_pink">#FFDADB</color>
+    <color name="warm_pink">#FFDAD4</color>
+    <color name="sunny">#FFDDAB</color>
+    <color name="red_error">#BA1B1B</color>
+    <color name="gray_background">#FCFCFC</color>
+    <color name="onBackground">#211A1A</color>
+    <color name="light_cappuccino">#A08C8C</color>
+    <color name="dark_burgundy">#7E2A31</color>
+    <color name="md_theme_dark_onSecondary">#44292A</color>
+    <color name="dark_cappuccino">#5D3F40</color>
+    <color name="seed">#D47D80</color>
+    <color name="error">#BA1B1B</color>
+    <color name="light_green">#CFDFA4</color>
+    <color name="light_blue">#A4DFD7</color>
+    <color name="blue">#A4B6DF</color>
+</resources>
